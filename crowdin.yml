@@ -1,0 +1,4 @@
+files:
+  - source: /locales/src/website.json
+    translation: /locales/%locale%.json
+    update_option: update_as_unapproved
